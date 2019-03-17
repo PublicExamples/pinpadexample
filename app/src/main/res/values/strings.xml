@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pinpad</string>
+    <string name="hint_enter_your_pin">Enter your PIN</string>
+    <string name="generate_pin_block">Generate PIN block</string>
+    <string name="generated_pin_block">Generated PIN block:</string>
+</resources>
